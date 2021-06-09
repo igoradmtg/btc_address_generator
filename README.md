@@ -38,6 +38,9 @@ file_put_contents($fname_addres,$str);
 echo "Saved the file: $fname_addres \r\n";
 ```
 
+![btc file](example/1_Example.png "Example file")
+
+
 ### BTC get info
 
 ```PHP
